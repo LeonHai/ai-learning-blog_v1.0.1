@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "【置顶文件】使用指南：readme.md",
+    "date": "9999-12-31",
+    "excerpt": "ai辅助学习使用指南",
+    "md": "daily/readme.md"
+  },
+  {
+    "id": 2,
+    "title": "【置顶文件】ai辅导老师设定：ai_guide.md",
+    "date": "9999-12-30",
+    "excerpt": "学习一个新知识前，给ai老师做的基础设定",
+    "md": "daily/ai_guide.md"
+  },
+  {
+    "id": 3,
+    "title": "【置顶文件】：学习路线设置：python-automation-path.md",
+    "date": "9999-12-30",
+    "excerpt": "用于指定技能的学习路线",
+    "md": "daily/python-automation-path.md"
+  },
+  {
+    "id": 4,
+    "title": "【置顶文件】会话模板：session-template.md",
+    "date": "9999-12-30",
+    "excerpt": "每日会话按此模板保存，保证格式统一",
+    "md": "daily/session-template.md"
+  },
+  {
+    "id": 5,
+    "title": "【置顶文件】学习进度：progress.md",
+    "date": "9999-12-30",
+    "excerpt": "学习进度文件，每天更新",
+    "md": "daily/progress.md"
+  },
+  {
+    "id": 6,
+    "title": "chatgpt学习最新会话记录",
+    "date": "9999-12-30",
+    "excerpt": "chatgpt学习最新会话记录",
+    "md": "不同ai的学习生成文件/chatgpt/ latest-session-note/session-notes.md"
+  },
+  {
+    "id": 7,
+    "title": "gemini学习最新会话记录",
+    "date": "9999-12-30",
+    "excerpt": "gemini学习最新会话记录",
+    "md": "不同ai的学习生成文件/gemini/latest-session-note/session-notes.md"
+  },
+  {
+    "id": 8,
+    "title": "daily/2026-03-15/session-notes.md",
+    "date": "2026-03-15",
+    "excerpt": "daily/2026-03-15/session-notes.md",
+    "md": "daily/2026-03-15/session-notes.md"
+  },
+  {
+    "id": 9,
+    "title": "daily/2026-03-16/session-notes.md",
+    "date": "2026-03-16",
+    "excerpt": "daily/2026-03-16/session-notes.md",
+    "md": "daily/2026-03-16/session-notes.md"
+  },
+  {
+    "id": 10,
+    "title": "daily/2026-03-17/session-notes.md",
+    "date": "2026-03-17",
+    "excerpt": "daily/2026-03-17/session-notes.md",
+    "md": "daily/2026-03-17/session-notes.md"
+  },
+    {
+    "id": 11,
+    "title": "daily/2026-03-18/session-notes.md",
+    "date": "2026-03-18",
+    "excerpt": "daily/2026-03-18/session-notes.md",
+    "md": "daily/2026-03-18/session-notes.md"
+  }
+]
